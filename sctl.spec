@@ -1,6 +1,6 @@
 %define name sctl 
 %define version 0.2.3
-%define release %mkrel 7
+%define release %mkrel 8
 
 Name: %{name} 
 Summary: A program designed to control Bearcat model BC-895xlt & BC-245xlt scanners
