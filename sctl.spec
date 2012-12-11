@@ -49,3 +49,40 @@ rm -rf $RPM_BUILD_ROOT
 %doc BUGS Changelog CREDITS LICENSE NEWS README
 %doc docs/*
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-8mdv2010.0
++ Revision: 433635
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-7mdv2009.0
++ Revision: 260584
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-6mdv2009.0
++ Revision: 252233
+- rebuild
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-4mdv2008.1
++ Revision: 127104
+- kill re-definition of %%buildroot on Pixel's request
+- import sctl
+
+
+* Thu Jan 05 2005 Lenny Cartier <lenny@mandriva.com> 0.2.3-4mdk
+- rebuild
+
+* Fri Jun 04 2004 Lenny Cartier <lenny@mandrakesoft.com> 0.2.3-3mdk
+- rebuild
+
+* Sat Feb 01 2003 Lenny Cartier <lenny@mandrakesoft.com 0.2.3-2mdk
+- rebuild
+
+* Mon Nov 18 2002 Lenny Cartier <lenny@mandrakesoft.com> 0.2.3-1mdk
+- 0.2.3
+- remove CVS entries
+- from Roger <roger@linuxfreemail.com> 
