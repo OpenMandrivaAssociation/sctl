@@ -7,7 +7,7 @@ Summary: A program designed to control Bearcat model BC-895xlt & BC-245xlt scann
 Version: %{version} 
 Release: %{release} 
 Source: http://www.obairlann.net/~reaper/sctl/tarfiles/%{name}-%{version}.tar.bz2 
-URL: http://www.obairlann.net/~reaper/sctl/
+URL: https://www.obairlann.net/~reaper/sctl/
 Group: Communications 
 BuildRoot: %{_tmppath}/%{name}-buildroot 
 License: GPL
