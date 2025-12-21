@@ -12,6 +12,7 @@ Group: Communications
 BuildRoot: %{_tmppath}/%{name}-buildroot 
 License: GPL
 
+BuildRequires:	make
 %description
 Sctl is a program designed to control Bearcat model BC-895xlt scanners. It
 may control other scanners with PC-control (aka, "serial") ports on them 
